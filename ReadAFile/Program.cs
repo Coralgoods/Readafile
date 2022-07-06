@@ -14,12 +14,12 @@ namespace ReadAFile
             string filePath = @"/Users/eduardodiaz/Desktop/NameList.txt";
 
             List<string> lines = new List<string>(); 
-            List<Person> people = new List<Person>();
             lines = File.ReadAllLines(filePath).ToList();
+            //Above code will make a list with the info from the file. 
+           
 
-
-
-            //You don't really need it. 
+            //You don't really need the below.  
+            List<Person> people = new List<Person>();
             foreach (string line in lines)
             {
                 string[] items = line.Split(',');
