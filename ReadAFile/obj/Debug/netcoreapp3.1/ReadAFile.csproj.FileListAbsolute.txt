@@ -1,0 +1,13 @@
+/Users/eduardodiaz/Projects/ReadAFile/bin/Debug/netcoreapp3.1/ReadAFile.deps.json
+/Users/eduardodiaz/Projects/ReadAFile/bin/Debug/netcoreapp3.1/ReadAFile.runtimeconfig.json
+/Users/eduardodiaz/Projects/ReadAFile/bin/Debug/netcoreapp3.1/ReadAFile.runtimeconfig.dev.json
+/Users/eduardodiaz/Projects/ReadAFile/bin/Debug/netcoreapp3.1/ReadAFile.dll
+/Users/eduardodiaz/Projects/ReadAFile/bin/Debug/netcoreapp3.1/ReadAFile.pdb
+/Users/eduardodiaz/Projects/ReadAFile/obj/Debug/netcoreapp3.1/ReadAFile.csproj.AssemblyReference.cache
+/Users/eduardodiaz/Projects/ReadAFile/obj/Debug/netcoreapp3.1/ReadAFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardodiaz/Projects/ReadAFile/obj/Debug/netcoreapp3.1/ReadAFile.AssemblyInfoInputs.cache
+/Users/eduardodiaz/Projects/ReadAFile/obj/Debug/netcoreapp3.1/ReadAFile.AssemblyInfo.cs
+/Users/eduardodiaz/Projects/ReadAFile/obj/Debug/netcoreapp3.1/ReadAFile.csproj.CoreCompileInputs.cache
+/Users/eduardodiaz/Projects/ReadAFile/obj/Debug/netcoreapp3.1/ReadAFile.dll
+/Users/eduardodiaz/Projects/ReadAFile/obj/Debug/netcoreapp3.1/ReadAFile.pdb
+/Users/eduardodiaz/Projects/ReadAFile/obj/Debug/netcoreapp3.1/ReadAFile.genruntimeconfig.cache
